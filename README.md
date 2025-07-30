@@ -5,7 +5,7 @@
 This task involves cleaning the Titanic dataset and performing basic Exploratory Data Analysis (EDA) to find patterns related to survival.
 
 
-![Screenshot 2024-08-02 231401](https://github.com/user-attachments/assets/83602d0d-f2ac-437b-bc1b-012d39f4bf05)
+![Screenshot 2024-08-02 231401](https://github.com/JASPAL70/Prodigy-Infotech-DS-Task-2/blob/main/test.csv)
 ## 📁 Steps Performed
 
 - Handled missing values (Age, Cabin, Embarked)
